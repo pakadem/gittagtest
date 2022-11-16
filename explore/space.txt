@@ -3,3 +3,5 @@ Rocket Ready
 Rocket Launched
 
 Leaving Atmosphere 
+
+Approaching Moon
